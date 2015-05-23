@@ -9,7 +9,9 @@ exploring the new features of ES6
 
 3) Run ``npm install``
 
-4) Start having fun!
+4) Run ``gulp``
+
+5) Start having fun!
 
 #####Resources
 http://www.es6fiddle.com/
